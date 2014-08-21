@@ -4,7 +4,7 @@ long t[11] = { 40, 640, 400, 2097153 };
 char*k, y[0xfa000];
 
 long WINAPI WndProc(HWND d, UINT m, UINT w, long l)
-{
+{//test
 	PAINTSTRUCT p;
 	switch (m){
 
